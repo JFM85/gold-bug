@@ -121,14 +121,6 @@ def selection_main(choice):
         selection_main(input("Please, enter a valid option: "))
 
 def main():
-    """
-    print("Write the code or type 'Gold-Bug'")
-    choice=input()
-    if choice.lower()=="gold-bug":
-        decoder(gold_bug)
-    else:
-        decoder(choice)
-        """
     print("+-----------------------------------+")
     print("|     EAP's Gold-Bug Companion      |")
     print("+-----------------------------------+")
